@@ -1,0 +1,6 @@
+{
+  "name": "Python Personal Finance Architecture Hub",
+  "description": "Guia arquitetural sênior, schemas e blueprint offline-first para aplicativo de controle de gastos pessoais em Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
